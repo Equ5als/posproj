@@ -1,0 +1,13 @@
+se\kth\iv1350\posproj\controller\Controller.class
+se\kth\iv1350\posproj\view\View.class
+se\kth\iv1350\posproj\integration\InventorySystem.class
+se\kth\iv1350\posproj\integration\Printer.class
+se\kth\iv1350\posproj\startup\Main.class
+se\kth\iv1350\posproj\dto\ItemDTO.class
+se\kth\iv1350\posproj\integration\AccountingSystem.class
+se\kth\iv1350\posproj\dto\ReceiptDTO.class
+se\kth\iv1350\posproj\model\SaleMoneyHandler.class
+se\kth\iv1350\posproj\model\RegisterMoneyHandler.class
+se\kth\iv1350\posproj\dto\SaleLogDTO.class
+se\kth\iv1350\posproj\model\Sale.class
+se\kth\iv1350\posproj\model\ItemRegistry.class
